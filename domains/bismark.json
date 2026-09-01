@@ -1,11 +1,13 @@
 {
-    "description": "Personal development hub migrated from GitHub Pages to Vercel",
-    "repo": "https://github.com/onebismark/bismark-is-a-dev",
-    "owner": {
-        "username": "onebismark",
-        "email": "bismarkagyapong2007@gmail.com"
-    },
-    "records": {
-        "CNAME": "cname.vercel-dns.com"
-    }
+  "$schema": "../schemas/domain.schema.json",
+  "description": "bismark.is-a.dev domain configuration",
+  "domain": "bismark",
+  "subdomain": "bismark",
+  "owner": {
+    "username": "onebismark",
+    "email": "bismarkagyapong2007@gmail.com"
+  },
+  "records": {
+    "URL": "https://lordbismark.bio.link"
+  }
 }
